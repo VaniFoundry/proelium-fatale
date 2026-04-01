@@ -1,0 +1,32 @@
+{
+  "id": "proelium-fatale",
+  "title": "Proelium Fatale",
+  "description": "Display dramatic fullscreen video transitions with optional background scene changes. Recreates the iconic 'Proelium Fatale' boss warning screen from Limbus Company.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Custom Module"
+    }
+  ],
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/proelium-fatale.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": true,
+  "url": "",
+  "manifest": "",
+  "download": ""
+}

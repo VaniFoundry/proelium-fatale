@@ -1,4 +1,6 @@
 # Proelium Fatale
+**Manifest URL:** `https://raw.githubusercontent.com/VaniFoundry/proelium-fatale/main/module.json`
+
 A Foundry VTT module "thought" for **[Stars of the City](https://github.com/tsu-b-asa/sotc)**.
 It plays the **Proelium Fatale video** from Limbus Company (or any other video, you need to find your own) fullscreen for all players, then fades out. Optionally switches to a new scene while the overlay is up.
 
